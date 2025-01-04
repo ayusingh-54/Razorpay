@@ -1,6 +1,6 @@
 # Tailwindo1Razorpay
 
-This project is developed by Ayusi with the help of Love Babbar.
+This project is developed by Ayush with the help of Love Babbar.
 
 ## Description
 
